@@ -5,3 +5,4 @@ print(b**a)
 print(a-b)
 c=a*b
 print(c)
+d=9
